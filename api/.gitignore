@@ -1,0 +1,7 @@
+# بسم الله الرحمن الرحيم
+
+
+# dependencies
+/node_modules
+
+.env
